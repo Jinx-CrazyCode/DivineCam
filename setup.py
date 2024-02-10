@@ -4,7 +4,7 @@ setup(
     name="DivineCam",
     version="1.0",
     description="this library is to simplify the OpenCV library",
-    url="https://github.com/Jinx-CrazyCode/DivineCam",
+    url="https://github.com/RoseDivine/DivineCam",
     license="MIT",
     author="Rose Divine",
     keywords="python, cv, opencv, CCTV, cctv, IPCAM, IP-CAM, ipcam, ip-cam",
