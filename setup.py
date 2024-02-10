@@ -13,5 +13,5 @@ setup(
         "Programming Language :: Python :: 3",
     ],
     install_requires=["opencv-python"],
-    packages=["cam"],
+    packages=["Camera.py"],
 )
