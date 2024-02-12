@@ -13,4 +13,4 @@ cam("CCTV STRING")
 
 # SOCIAL
 ## TELEGRAM
-```https://t.me/TheDivineBlood```
+https://t.me/TheDivineBlood
