@@ -9,3 +9,8 @@
 from DivineCam.Camera import cam
 
 cam("CCTV STRING")
+```
+
+# SOCIAL
+## TELEGRAM
+```https://t.me/TheDivineBlood```
