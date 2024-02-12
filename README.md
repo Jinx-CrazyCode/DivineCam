@@ -8,4 +8,4 @@
 ```PYTHON
 from DivineCam.Camera import cam
 
-cam("CCTV STRING")```
+cam("CCTV STRING")
