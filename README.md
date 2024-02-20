@@ -1,7 +1,7 @@
 # this library is to simplify the OpenCV library
 
 # for install library  
-```pip install git+https://github.com/RoseDivine/DivineCam```
+```pip install https://github.com/Jinx-CrazyCode/DivineCam```
 
 # usage
 
